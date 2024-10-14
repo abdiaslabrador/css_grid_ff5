@@ -8,4 +8,4 @@ This is a work project during the study at the **Factoriaf5 bootcamp** in which 
 -  VSCODE
 
 # CHECK IT OUT!
-Check the page out! [click here]()
+Check the page out! [click here](https://abdiaslabrador.github.io/css_grid_ff5/)
